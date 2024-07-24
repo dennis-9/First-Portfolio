@@ -1,122 +1,123 @@
 {
-  "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
-    "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+    "main": {
+        "name": "Dennis Asiedu",
+        "occupation": "Passionate Software Engineer",
+        "description": "Loves Tech And Competitions",
+        "image": "profilepic.jpeg",
+        "bio": "Hello there! I'm Dennis, a dedicated computer science student with a passion for technology and a strong aspiration to become a software engineer. I've developed a range of projects, from small applications to complex systems, and love tackling challenging problems. I enjoy collaborating with diverse teams to create robust and scalable solutions.I 'm also committed to mentoring fellow students and aspiring developers through workshops and online tutorials. My goal is to innovate in the tech world and empower the next generation of developers.Let 's connect and create something amazing together!",
+        "contactmessage": "Email me and let's Collaborate!",
+        "email": "asiedudennis30@gmail.com",
+        "phone": "+233 277 441 627",
+        "address": {
+            "street": "McCarthy Hills",
+            "city": "Accra",
+            "state": "",
+            "zip": ""
+        },
+        "website": "",
+        "resumedownload": "",
+        "social": [{
+                "name": "youtube",
+                "url": "https://youtube.com/@zealcraftinnovation?si=cKyjYqkxXIIG8o4M",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100090546841972&mibextid=rS40aB7S9Ucbxw6v",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/dennis-asiedu",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/dennis_techie/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/dennis-9",
+                "className": "fa fa-github"
+            }
+        ]
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
-    "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
-      }
-    ],
-    "work": [
-      {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
-  }
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "Harvard University - CS50",
+            "degree": "Bachelor's Degree, Computer Science",
+            "graduated": "July 2022",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "Zeal Craft Innovation",
+            "title": "Founder and CEO",
+            "years": "Newly Establish. 2023 - 2024",
+            "description": "Build tech solutions. Impact others about tech."
+        }],
+        "skills": [{
+                "name": "Python",
+                "level": "90%"
+            },
+            {
+                "name": "C",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
+                "level": "70%"
+            },
+            {
+                "name": "Git and GitHub",
+                "level": "95%"
+            },
+            {
+                "name": "Web Development",
+                "level": "92%"
+            },
+            {
+                "name": "Internet Of Things",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Company Intro YouTube Video",
+                "category": "",
+                "image": "zeal.jpeg",
+                "url": "https://youtu.be/2T3ZDd9BWtQ?si=a1104rx_ofmrSc4m"
+            },
+            {
+                "title": "All Other Projects are on github ",
+                "category": "",
+                "image": "dennis.jpeg",
+                "url": "https://github.com/dennis-9"
+            },
+            {
+                "title": "",
+                "category": "",
+                "image": "jpg",
+                "url": ""
+            }
+
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Dennis is a dedicated and talented individual with a bright future in software engineering. His ability to quickly grasp new concepts and apply them effectively sets him apart.",
+                "user": "Satya Nadella, CEO of Microsoft"
+            },
+            {
+                "text": "Dennis has an impressive knack for solving complex problems with innovative solutions. His passion for technology is evident in every project he undertakes.!",
+                "user": "PAPA"
+            },
+            {
+                "text": "Working with Dennis has been a pleasure. His enthusiasm for tech and his commitment to excellence make him a valuable asset to any team.",
+                "user": "Tech With With"
+            }
+        ]
+    }
 }
